@@ -1,0 +1,6 @@
+{
+  "name": "یادآور هوشمند",
+  "description": "An intelligent alarm and reminder app with full-screen notifications and TTS reading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
